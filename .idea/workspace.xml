@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20ec4f4e-a1dc-4a8b-bde0-f29e272ce5a9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../cleancode/FizzBuzz.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cleancode/FizzBuzzMain.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cleancode/FizzBuzzTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cleancode/TennisGame.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cleancode/src/Calculator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cleancode/test/CalculatorTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cleancode/test/CylinderTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cleancode/test/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cleancode/test/connec.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connec/controller/MobileController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../connec/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giohang/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giohang/dbhel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../giohang/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/ArrayList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/ArrayListTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/LinkLIst.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/LinkedListMain.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/Mylist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/Node.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list/demo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quanlynhansu/Employee.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quanlynhansu/EmployeeManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quanlynhansu/adduser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quanlynhansu/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../quanlynhansu/them.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinaryNode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Node.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/webServers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthem1/chuyendoitiente.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapthem1/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chuyendoitiente/df.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chuyendoitiente/hienthisonguyento.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chuyendoitiente/songuyentonhohon100.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dangkynguoidung/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dangkynguoidung/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/../dangkynguoidung/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dangkynguoidung/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../dangkynguoidung/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dangkynguoidung/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demkytuchuoi/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docsothanhchu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gopmang/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hienthicachinh/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hienthicachinh/isoscelestriangle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hienthicachinh/rectangle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hienthicachinh/squaretriangle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hienthicachinh/ssd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hienthicachinh/sđf.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../isoscelestriangle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/content.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../layout/nav.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../locdanhsachkhachhang/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maxmang2chieu/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maytinhphp-1/contror.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maytinhphp-1/logout.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maytinhphp/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../min/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minnhapbanphim/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minnhapbanphim/mang-1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minnhapbanphim/mang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../motasanpham/dislay_discuont.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../motasanpham/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopphp/class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopphp/demo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopphp/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rectangle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../squaretriangle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thongbaonguoidungnhapsobathople/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../thongbaonguoidungnhapsobathople/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanhathao/bai2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanhathao/bai23.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanhathao/bai3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanhathao/bai4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanhathao/calculoter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanhathao/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanhphp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tong1cot/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../tong1cot/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tongmatranvuong/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xoaphantutrongmang/index.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1kPGwrOslHuWTG6hewlaR8cbgLV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../queue" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20ec4f4e-a1dc-4a8b-bde0-f29e272ce5a9" name="Default Changelist" comment="" />
+      <created>1605595054950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605595054950</updated>
+      <workItem from="1605595055981" duration="159000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="502" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1605595213762">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="502" y="155" width="424" height="491" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1605595213762" />
+    <state x="514" y="323" width="399" height="156" key="NewPhpFileDialog" timestamp="1605595079268">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="514" y="323" width="399" height="156" key="NewPhpFileDialog/72.27.1294.741@72.27.1294.741" timestamp="1605595079268" />
+  </component>
+</project>
